@@ -30,15 +30,11 @@ and see when users join or leave the chat.
 git clone https://github.com/yourusername/chat-app-assignment.git
 cd chat-app-assignment
 2. Start Backend Server
-bash
-Copy
-Edit
+
 cd backend
 npm install
 node server.js
 3. Start React Native Frontend
-bash
-Copy
-Edit
+
 cd ..
 npx expo start
